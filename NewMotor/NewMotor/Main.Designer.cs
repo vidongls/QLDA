@@ -195,9 +195,9 @@
             this.guna2CustomGradientPanel2.Controls.Add(this.flowLayoutPanel1);
             this.guna2CustomGradientPanel2.Controls.Add(this.pnChecked);
             this.guna2CustomGradientPanel2.Controls.Add(this.btnthongke);
+            this.guna2CustomGradientPanel2.Controls.Add(this.bntnv);
             this.guna2CustomGradientPanel2.Controls.Add(this.guna2HtmlLabel11);
             this.guna2CustomGradientPanel2.Controls.Add(this.btnkh);
-            this.guna2CustomGradientPanel2.Controls.Add(this.bntnv);
             this.guna2CustomGradientPanel2.Controls.Add(this.guna2HtmlLabel10);
             this.guna2CustomGradientPanel2.Controls.Add(this.btnsp);
             this.guna2CustomGradientPanel2.CustomBorderColor = System.Drawing.SystemColors.ControlLight;
@@ -358,19 +358,18 @@
             this.pnChecked.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(157)))), ((int)(((byte)(176)))), ((int)(((byte)(242)))));
             this.pnChecked.FillColor3 = System.Drawing.Color.Gray;
             this.pnChecked.FillColor4 = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.pnChecked.Location = new System.Drawing.Point(160, 113);
+            this.pnChecked.Location = new System.Drawing.Point(172, 110);
             this.pnChecked.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnChecked.Name = "pnChecked";
             this.pnChecked.ShadowDecoration.Parent = this.pnChecked;
-            this.pnChecked.Size = new System.Drawing.Size(10, 40);
+            this.pnChecked.Size = new System.Drawing.Size(6, 42);
             this.pnChecked.TabIndex = 5;
             // 
             // btnthongke
             // 
             this.btnthongke.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(122)))));
             this.btnthongke.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(157)))), ((int)(((byte)(176)))), ((int)(((byte)(242)))));
-            this.btnthongke.BorderRadius = 25;
-            this.btnthongke.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dash;
+            this.btnthongke.BorderRadius = 20;
             this.btnthongke.BorderThickness = 1;
             this.btnthongke.CheckedState.Parent = this.btnthongke;
             this.btnthongke.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -383,7 +382,7 @@
             this.btnthongke.Image = global::NewMotor.Properties.Resources.google_analytics_logo_25px;
             this.btnthongke.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btnthongke.ImageSize = new System.Drawing.Size(30, 30);
-            this.btnthongke.Location = new System.Drawing.Point(13, 260);
+            this.btnthongke.Location = new System.Drawing.Point(14, 259);
             this.btnthongke.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnthongke.Name = "btnthongke";
             this.btnthongke.ShadowDecoration.Parent = this.btnthongke;
@@ -410,8 +409,7 @@
             // 
             this.btnkh.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(122)))));
             this.btnkh.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(157)))), ((int)(((byte)(176)))), ((int)(((byte)(242)))));
-            this.btnkh.BorderRadius = 25;
-            this.btnkh.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dash;
+            this.btnkh.BorderRadius = 20;
             this.btnkh.BorderThickness = 1;
             this.btnkh.CheckedState.Parent = this.btnkh;
             this.btnkh.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -437,8 +435,7 @@
             // 
             this.bntnv.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(122)))));
             this.bntnv.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(157)))), ((int)(((byte)(176)))), ((int)(((byte)(242)))));
-            this.bntnv.BorderRadius = 25;
-            this.bntnv.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dash;
+            this.bntnv.BorderRadius = 20;
             this.bntnv.BorderThickness = 1;
             this.bntnv.CheckedState.Parent = this.bntnv;
             this.bntnv.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -451,7 +448,7 @@
             this.bntnv.Image = global::NewMotor.Properties.Resources.standing_man_25px;
             this.bntnv.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.bntnv.ImageSize = new System.Drawing.Size(30, 30);
-            this.bntnv.Location = new System.Drawing.Point(14, 210);
+            this.bntnv.Location = new System.Drawing.Point(14, 209);
             this.bntnv.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.bntnv.Name = "bntnv";
             this.bntnv.ShadowDecoration.Parent = this.bntnv;
@@ -476,8 +473,7 @@
             // 
             this.btnsp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(122)))));
             this.btnsp.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(157)))), ((int)(((byte)(176)))), ((int)(((byte)(242)))));
-            this.btnsp.BorderRadius = 25;
-            this.btnsp.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dash;
+            this.btnsp.BorderRadius = 20;
             this.btnsp.BorderThickness = 1;
             this.btnsp.CheckedState.Parent = this.btnsp;
             this.btnsp.Cursor = System.Windows.Forms.Cursors.Hand;

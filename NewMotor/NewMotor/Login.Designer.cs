@@ -77,7 +77,7 @@
             this.pnlogin.Controls.Add(this.guna2PictureBox1);
             this.pnlogin.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlogin.Location = new System.Drawing.Point(0, 0);
-            this.pnlogin.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pnlogin.Margin = new System.Windows.Forms.Padding(2);
             this.pnlogin.Name = "pnlogin";
             this.pnlogin.ShadowDecoration.BorderRadius = 30;
             this.pnlogin.ShadowDecoration.Color = System.Drawing.Color.DarkGray;
@@ -92,7 +92,7 @@
             this.guna2HtmlLabel11.Font = new System.Drawing.Font("Microsoft Sans Serif", 6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel11.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.guna2HtmlLabel11.Location = new System.Drawing.Point(626, 466);
-            this.guna2HtmlLabel11.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2HtmlLabel11.Margin = new System.Windows.Forms.Padding(2);
             this.guna2HtmlLabel11.Name = "guna2HtmlLabel11";
             this.guna2HtmlLabel11.Size = new System.Drawing.Size(239, 14);
             this.guna2HtmlLabel11.TabIndex = 46;
@@ -109,7 +109,7 @@
             this.pnok.Controls.Add(this.guna2Button1);
             this.pnok.CustomBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.pnok.Location = new System.Drawing.Point(461, 69);
-            this.pnok.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pnok.Margin = new System.Windows.Forms.Padding(2);
             this.pnok.Name = "pnok";
             this.pnok.ShadowDecoration.BorderRadius = 3;
             this.pnok.ShadowDecoration.Color = System.Drawing.SystemColors.ActiveBorder;
@@ -129,7 +129,7 @@
             this.ckpass.ImageSize = new System.Drawing.Size(25, 25);
             this.ckpass.IndicateFocus = false;
             this.ckpass.Location = new System.Drawing.Point(319, 204);
-            this.ckpass.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ckpass.Margin = new System.Windows.Forms.Padding(2);
             this.ckpass.Name = "ckpass";
             this.ckpass.PressedState.Parent = this.ckpass;
             this.ckpass.Size = new System.Drawing.Size(18, 20);
@@ -142,7 +142,7 @@
             this.guna2HtmlLabel2.Font = new System.Drawing.Font("Segoe UI", 7.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(157)))), ((int)(((byte)(176)))), ((int)(((byte)(242)))));
             this.guna2HtmlLabel2.Location = new System.Drawing.Point(37, 79);
-            this.guna2HtmlLabel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2HtmlLabel2.Margin = new System.Windows.Forms.Padding(2);
             this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
             this.guna2HtmlLabel2.Size = new System.Drawing.Size(261, 15);
             this.guna2HtmlLabel2.TabIndex = 38;
@@ -152,7 +152,7 @@
             // 
             this.guna2GradientButton1.Animated = true;
             this.guna2GradientButton1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2GradientButton1.BorderRadius = 25;
+            this.guna2GradientButton1.BorderRadius = 20;
             this.guna2GradientButton1.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(184)))), ((int)(((byte)(70)))));
             this.guna2GradientButton1.CheckedState.FillColor2 = System.Drawing.Color.Silver;
             this.guna2GradientButton1.CheckedState.Parent = this.guna2GradientButton1;
@@ -164,7 +164,7 @@
             this.guna2GradientButton1.ForeColor = System.Drawing.Color.White;
             this.guna2GradientButton1.HoverState.Parent = this.guna2GradientButton1;
             this.guna2GradientButton1.Location = new System.Drawing.Point(86, 306);
-            this.guna2GradientButton1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2GradientButton1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2GradientButton1.Name = "guna2GradientButton1";
             this.guna2GradientButton1.ShadowDecoration.Parent = this.guna2GradientButton1;
             this.guna2GradientButton1.Size = new System.Drawing.Size(191, 41);
@@ -178,7 +178,7 @@
             this.guna2HtmlLabel10.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(157)))), ((int)(((byte)(176)))), ((int)(((byte)(242)))));
             this.guna2HtmlLabel10.Location = new System.Drawing.Point(37, 42);
-            this.guna2HtmlLabel10.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2HtmlLabel10.Margin = new System.Windows.Forms.Padding(2);
             this.guna2HtmlLabel10.Name = "guna2HtmlLabel10";
             this.guna2HtmlLabel10.Size = new System.Drawing.Size(176, 37);
             this.guna2HtmlLabel10.TabIndex = 36;
@@ -208,7 +208,7 @@
             this.txtmatkhau.IconRightSize = new System.Drawing.Size(25, 25);
             this.txtmatkhau.ImeMode = System.Windows.Forms.ImeMode.Hiragana;
             this.txtmatkhau.Location = new System.Drawing.Point(25, 193);
-            this.txtmatkhau.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtmatkhau.Margin = new System.Windows.Forms.Padding(2);
             this.txtmatkhau.Name = "txtmatkhau";
             this.txtmatkhau.PasswordChar = '*';
             this.txtmatkhau.PlaceholderText = "  PassWord";
@@ -239,7 +239,7 @@
             this.txttaikhoan.HoverState.Parent = this.txttaikhoan;
             this.txttaikhoan.IconLeft = global::NewMotor.Properties.Resources.account_26px;
             this.txttaikhoan.Location = new System.Drawing.Point(25, 133);
-            this.txttaikhoan.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txttaikhoan.Margin = new System.Windows.Forms.Padding(2);
             this.txttaikhoan.Name = "txttaikhoan";
             this.txttaikhoan.PasswordChar = '\0';
             this.txttaikhoan.PlaceholderText = "   Account";
@@ -265,7 +265,7 @@
             this.guna2Button1.ImageAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.guna2Button1.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2Button1.Location = new System.Drawing.Point(25, 243);
-            this.guna2Button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Button1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.PressedColor = System.Drawing.Color.White;
             this.guna2Button1.PressedDepth = 0;
@@ -288,7 +288,7 @@
             this.guna2ControlBox1.IconColor = System.Drawing.Color.Gray;
             this.guna2ControlBox1.ImeMode = System.Windows.Forms.ImeMode.AlphaFull;
             this.guna2ControlBox1.Location = new System.Drawing.Point(824, 2);
-            this.guna2ControlBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2ControlBox1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2ControlBox1.Name = "guna2ControlBox1";
             this.guna2ControlBox1.ShadowDecoration.Parent = this.guna2ControlBox1;
             this.guna2ControlBox1.Size = new System.Drawing.Size(34, 24);
@@ -299,7 +299,7 @@
             // 
             this.guna2PictureBox1.Image = global::NewMotor.Properties.Resources._19199655;
             this.guna2PictureBox1.Location = new System.Drawing.Point(19, 129);
-            this.guna2PictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2PictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2PictureBox1.Name = "guna2PictureBox1";
             this.guna2PictureBox1.ShadowDecoration.Parent = this.guna2PictureBox1;
             this.guna2PictureBox1.Size = new System.Drawing.Size(412, 368);
@@ -320,7 +320,7 @@
             this.pnsignin.Controls.Add(this.guna2CustomGradientPanel2);
             this.pnsignin.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnsignin.Location = new System.Drawing.Point(0, 0);
-            this.pnsignin.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pnsignin.Margin = new System.Windows.Forms.Padding(2);
             this.pnsignin.Name = "pnsignin";
             this.pnsignin.ShadowDecoration.Parent = this.pnsignin;
             this.pnsignin.Size = new System.Drawing.Size(866, 480);
@@ -330,7 +330,7 @@
             // 
             this.guna2PictureBox2.Image = global::NewMotor.Properties.Resources._19199655;
             this.guna2PictureBox2.Location = new System.Drawing.Point(19, 103);
-            this.guna2PictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2PictureBox2.Margin = new System.Windows.Forms.Padding(2);
             this.guna2PictureBox2.Name = "guna2PictureBox2";
             this.guna2PictureBox2.ShadowDecoration.Parent = this.guna2PictureBox2;
             this.guna2PictureBox2.Size = new System.Drawing.Size(412, 394);
@@ -349,7 +349,7 @@
             this.guna2ControlBox2.IconColor = System.Drawing.Color.Gray;
             this.guna2ControlBox2.ImeMode = System.Windows.Forms.ImeMode.AlphaFull;
             this.guna2ControlBox2.Location = new System.Drawing.Point(824, 2);
-            this.guna2ControlBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2ControlBox2.Margin = new System.Windows.Forms.Padding(2);
             this.guna2ControlBox2.Name = "guna2ControlBox2";
             this.guna2ControlBox2.ShadowDecoration.Parent = this.guna2ControlBox2;
             this.guna2ControlBox2.Size = new System.Drawing.Size(34, 24);
@@ -366,7 +366,7 @@
             this.guna2CustomGradientPanel2.Controls.Add(this.txtuserdangky);
             this.guna2CustomGradientPanel2.CustomBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.guna2CustomGradientPanel2.Location = new System.Drawing.Point(466, 22);
-            this.guna2CustomGradientPanel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2CustomGradientPanel2.Margin = new System.Windows.Forms.Padding(2);
             this.guna2CustomGradientPanel2.Name = "guna2CustomGradientPanel2";
             this.guna2CustomGradientPanel2.ShadowDecoration.BorderRadius = 3;
             this.guna2CustomGradientPanel2.ShadowDecoration.Color = System.Drawing.SystemColors.ActiveBorder;
@@ -386,7 +386,7 @@
             this.cp2.ImageSize = new System.Drawing.Size(25, 25);
             this.cp2.IndicateFocus = false;
             this.cp2.Location = new System.Drawing.Point(336, 251);
-            this.cp2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cp2.Margin = new System.Windows.Forms.Padding(2);
             this.cp2.Name = "cp2";
             this.cp2.PressedState.Parent = this.cp2;
             this.cp2.Size = new System.Drawing.Size(18, 20);
@@ -399,7 +399,7 @@
             this.guna2HtmlLabel1.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(157)))), ((int)(((byte)(176)))), ((int)(((byte)(242)))));
             this.guna2HtmlLabel1.Location = new System.Drawing.Point(125, 63);
-            this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
             this.guna2HtmlLabel1.Size = new System.Drawing.Size(179, 37);
             this.guna2HtmlLabel1.TabIndex = 37;
@@ -421,7 +421,7 @@
             this.guna2Button2.ImageAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.guna2Button2.ImageSize = new System.Drawing.Size(25, 25);
             this.guna2Button2.Location = new System.Drawing.Point(40, 284);
-            this.guna2Button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2Button2.Margin = new System.Windows.Forms.Padding(2);
             this.guna2Button2.Name = "guna2Button2";
             this.guna2Button2.PressedColor = System.Drawing.Color.Transparent;
             this.guna2Button2.PressedDepth = 0;
@@ -454,7 +454,7 @@
             this.txtemaildky.IconLeft = global::NewMotor.Properties.Resources.envelope_26px;
             this.txtemaildky.ImeMode = System.Windows.Forms.ImeMode.Hiragana;
             this.txtemaildky.Location = new System.Drawing.Point(40, 189);
-            this.txtemaildky.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtemaildky.Margin = new System.Windows.Forms.Padding(2);
             this.txtemaildky.Name = "txtemaildky";
             this.txtemaildky.PasswordChar = '\0';
             this.txtemaildky.PlaceholderText = " Email";
@@ -477,7 +477,7 @@
             this.guna2GradientButton2.ForeColor = System.Drawing.Color.White;
             this.guna2GradientButton2.HoverState.Parent = this.guna2GradientButton2;
             this.guna2GradientButton2.Location = new System.Drawing.Point(92, 323);
-            this.guna2GradientButton2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.guna2GradientButton2.Margin = new System.Windows.Forms.Padding(2);
             this.guna2GradientButton2.Name = "guna2GradientButton2";
             this.guna2GradientButton2.ShadowDecoration.Parent = this.guna2GradientButton2;
             this.guna2GradientButton2.Size = new System.Drawing.Size(191, 41);
@@ -507,7 +507,7 @@
             this.txtmatkhaudky.IconLeft = global::NewMotor.Properties.Resources.lock_24px;
             this.txtmatkhaudky.ImeMode = System.Windows.Forms.ImeMode.Hiragana;
             this.txtmatkhaudky.Location = new System.Drawing.Point(40, 240);
-            this.txtmatkhaudky.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtmatkhaudky.Margin = new System.Windows.Forms.Padding(2);
             this.txtmatkhaudky.Name = "txtmatkhaudky";
             this.txtmatkhaudky.PasswordChar = '*';
             this.txtmatkhaudky.PlaceholderText = "  PassWord";
@@ -538,7 +538,7 @@
             this.txtuserdangky.HoverState.Parent = this.txtuserdangky;
             this.txtuserdangky.IconLeft = global::NewMotor.Properties.Resources.account_26px;
             this.txtuserdangky.Location = new System.Drawing.Point(40, 138);
-            this.txtuserdangky.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtuserdangky.Margin = new System.Windows.Forms.Padding(2);
             this.txtuserdangky.Name = "txtuserdangky";
             this.txtuserdangky.PasswordChar = '\0';
             this.txtuserdangky.PlaceholderText = "   Account";
@@ -566,7 +566,7 @@
             this.Controls.Add(this.pnlogin);
             this.Controls.Add(this.pnsignin);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
